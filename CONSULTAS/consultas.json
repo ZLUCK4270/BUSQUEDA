@@ -1,0 +1,64 @@
+{
+  "cases": [
+    {
+      "id_caso": "C_01.jpg",
+      "descripcion": "Foto real - Selección Argentina (Messi 10)",
+      "id_correcto": "TBD",
+      "tipo": "foto_real"
+    },
+    {
+      "id_caso": "C_02.jpg",
+      "descripcion": "Foto real - FC Barcelona (Lamine Yamal 19)",
+      "id_correcto": "TBD",
+      "tipo": "foto_real"
+    },
+    {
+      "id_caso": "C_03.jpg",
+      "descripcion": "Foto real - Olympique Lyonnais (Local blanca)",
+      "id_correcto": "TBD",
+      "tipo": "foto_real"
+    },
+    {
+      "id_caso": "C_04.jpg",
+      "descripcion": "Foto real - Selección de Brasil (Local amarilla)",
+      "id_correcto": "TBD",
+      "tipo": "foto_real"
+    },
+    {
+      "id_caso": "C_05.jpg",
+      "descripcion": "Foto real - PSG Concepto Spider-Man",
+      "id_correcto": "TBD",
+      "tipo": "foto_real"
+    },
+    {
+      "id_caso": "C_06.jpg",
+      "descripcion": "Foto real - AC Milan (Local rojo y negro)",
+      "id_correcto": "TBD",
+      "tipo": "foto_real"
+    },
+    {
+      "id_caso": "C_07.jpg",
+      "descripcion": "Foto real - AC Milan (Alternativa azul)",
+      "id_correcto": "TBD",
+      "tipo": "foto_real"
+    },
+    {
+      "id_caso": "C_08.jpg",
+      "descripcion": "Foto real - Flamengo (Local, Gabi 9)",
+      "id_correcto": "TBD",
+      "tipo": "foto_real"
+    },
+    {
+      "id_caso": "C_09.jpg",
+      "descripcion": "Foto real - Atlético de Madrid (Local)",
+      "id_correcto": "TBD",
+      "tipo": "foto_real"
+    },
+    {
+      "id_caso": "C_10.jpg",
+      "descripcion": "Foto real - New York Red Bulls",
+      "id_correcto": "TBD",
+      "tipo": "foto_real"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "cases": [
+    {
+      "id_caso": "caso_001",
+      "descripcion": "Foto real de tienda — camiseta azul de fútbol",
+      "id_correcto": "AIM-P001-001",
+      "tipo": "foto_real"
+    },
+    {
+      "id_caso": "caso_002",
+      "descripcion": "Captura de redes sociales — camiseta a rayas",
+      "id_correcto": "AIM-P001-002",
+      "tipo": "redes_sociales"
+    },
+    {
+      "id_caso": "caso_003",
+      "descripcion": "Foto de catálogo externo sin marco",
+      "id_correcto": "AIM-P001-003",
+      "tipo": "sin_marco"
+    },
+    {
+      "id_caso": "caso_004",
+      "descripcion": "Foto con colores diferentes al original",
+      "id_correcto": "AIM-P001-004",
+      "tipo": "recoloreada"
+    },
+    {
+      "id_caso": "caso_005",
+      "descripcion": "Imagen recortada — solo se ve el torso",
+      "id_correcto": "AIM-P001-005",
+      "tipo": "recortada"
+    },
+    {
+      "id_caso": "caso_006",
+      "descripcion": "Mockup con persona — fondo de estadio",
+      "id_correcto": "AIM-P001-006",
+      "tipo": "mockup_persona"
+    },
+    {
+      "id_caso": "caso_007",
+      "descripcion": "Foto borrosa tomada con flash",
+      "id_correcto": "AIM-P002-001",
+      "tipo": "baja_calidad"
+    },
+    {
+      "id_caso": "caso_008",
+      "descripcion": "Foto de proveedor diferente — diseño similar",
+      "id_correcto": "AIM-P002-002",
+      "tipo": "proveedor_externo"
+    },
+    {
+      "id_caso": "caso_009",
+      "descripcion": "Foto con reflejo y fondo ruidoso",
+      "id_correcto": "AIM-P002-003",
+      "tipo": "foto_real"
+    },
+    {
+      "id_caso": "caso_010",
+      "descripcion": "Captura de pantalla de página web",
+      "id_correcto": "AIM-P002-004",
+      "tipo": "captura_web"
+    }
+  ]
+}

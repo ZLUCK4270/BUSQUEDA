@@ -1,0 +1,41 @@
+caso,tipo,descripcion,id_correcto,posicion,id_resultado,nombre,score,juicio
+C_01,cuerpo,"Cuerpo persona - caso C_01",AIM-P001-021,1,AIM-P187-060,"Pattern Desings Pontillizer",0.7259,Sirve
+C_01,cuerpo,"Cuerpo persona - caso C_01",AIM-P001-021,2,AIM-P121-019,"Argentina Campeones Concept",0.6484,Acierto
+C_01,cuerpo,"Cuerpo persona - caso C_01",AIM-P001-021,3,AIM-P042-050,"Argentina Concept",0.6462,No sirve
+C_01,cuerpo,"Cuerpo persona - caso C_01",AIM-P001-021,4,AIM-P184-031,"ARGENTINA DESIGN WOS",0.6455,Sirve
+C_01,cuerpo,"Cuerpo persona - caso C_01",AIM-P001-021,5,AIM-P246-042,"ARGENTINA CONCEPT 2024",0.6077,Acierto
+C_02,cuerpo,"Cuerpo persona - caso C_02",AIM-P012-025,1,AIM-P119-016,"Barcelona Total 90 Concept",0.7184,Acierto
+C_02,cuerpo,"Cuerpo persona - caso C_02",AIM-P012-025,2,AIM-P236-012,"Barcelona 2024-25 Purpure Concept",0.5231,Sirve
+C_02,cuerpo,"Cuerpo persona - caso C_02",AIM-P012-025,3,AIM-P127-044,"Barcelona Home Kit 25-26",0.4685,Acierto
+C_03,cuerpo,"Cuerpo persona - caso C_03",AIM-P023-006,1,AIM-P023-006,"Olympique Lyonnais 25-26",0.9550,Acierto
+C_04,cuerpo,"Cuerpo persona - caso C_04",AIM-P013-041,1,AIM-P098-008,"Brasil Design Concept Plants",0.6865,Acierto
+C_04,cuerpo,"Cuerpo persona - caso C_04",AIM-P013-041,2,AIM-P144-058,"BRASIL JORDAN CONCEPT FREE DOWNLOAD",0.5884,Acierto
+C_04,cuerpo,"Cuerpo persona - caso C_04",AIM-P013-041,3,AIM-P162-018,"BRASIL CATAR 2022",0.5818,Sirve
+C_04,cuerpo,"Cuerpo persona - caso C_04",AIM-P013-041,4,AIM-P064-013,"Brasil Copa 2026",0.5700,Acierto
+C_04,cuerpo,"Cuerpo persona - caso C_04",AIM-P013-041,5,AIM-P048-037,"Brasil Fantasy 2026 World Cup Concept",0.5205,Acierto
+C_05,cuerpo,"Cuerpo persona - caso C_05",AIM-P004-031,1,AIM-P214-027,"Wanda Vision Design",0.7213,Sirve
+C_05,cuerpo,"Cuerpo persona - caso C_05",AIM-P004-031,2,AIM-P146-011,"YONEX VECTOR FREE DOWNLOAD",0.5088,No sirve
+C_05,cuerpo,"Cuerpo persona - caso C_05",AIM-P004-031,3,AIM-P109-015,"Uruguay Concept 2025",0.5055,No sirve
+C_05,cuerpo,"Cuerpo persona - caso C_05",AIM-P004-031,4,AIM-P127-027,"Jersey Viktoria Plzen 2024 25",0.4941,Acierto
+C_06,cuerpo,"Cuerpo persona - caso C_06",AIM-P255-024,1,AIM-P134-014,"Ac Milan 2021-22 Vector Free Donwload",0.7016,Acierto
+C_06,cuerpo,"Cuerpo persona - caso C_06",AIM-P255-024,2,AIM-P247-034,"AC MILAN PUMA LEON",0.5383,No sirve
+C_06,cuerpo,"Cuerpo persona - caso C_06",AIM-P255-024,3,AIM-P130-017,"AC Milan Versace Concept",0.4726,Acierto
+C_07,cuerpo,"Cuerpo persona - caso C_07",AIM-P255-023,1,AIM-P247-034,"AC MILAN PUMA LEON",0.7255,No sirve
+C_07,cuerpo,"Cuerpo persona - caso C_07",AIM-P255-023,2,AIM-P134-014,"Ac Milan 2021-22 Vector Free Donwload",0.6027,No sirve
+C_07,cuerpo,"Cuerpo persona - caso C_07",AIM-P255-023,3,AIM-P124-005,"Real Madrid Tercera Leaked 2025-26",0.5460,Sirve
+C_07,cuerpo,"Cuerpo persona - caso C_07",AIM-P255-023,4,AIM-P201-021,"REAL MADRID ENTRENAMIENTO 22-23",0.5412,Sirve
+C_07,cuerpo,"Cuerpo persona - caso C_07",AIM-P255-023,5,AIM-P182-053,"AC MILAN ADIDAS 2006 -07",0.5288,Sirve
+C_08,cuerpo,"Cuerpo persona - caso C_08",AIM-P254-005,1,AIM-P008-027,"Atletico De Madrid Home Kit 2026-2027",0.7563,Acierto
+C_08,cuerpo,"Cuerpo persona - caso C_08",AIM-P254-005,2,AIM-P027-009,"Junior De Barranquilla",0.7173,Acierto
+C_08,cuerpo,"Cuerpo persona - caso C_08",AIM-P254-005,3,AIM-P017-057,"Chivas Jersey 2025-2026",0.5620,Sirve
+C_08,cuerpo,"Cuerpo persona - caso C_08",AIM-P254-005,4,AIM-P173-004,"APF PARAGUAY DESIGN",0.5609,Sirve
+C_09,cuerpo,"Cuerpo persona - caso C_09",AIM-P252-057,1,AIM-P123-056,"Flamengo Design Concept 2024",0.6838,Sirve
+C_09,cuerpo,"Cuerpo persona - caso C_09",AIM-P252-057,2,AIM-P145-047,"SAO PAULO HOME KIT CONCEPT 2021 FREE DOWNLOAD",0.6519,No sirve
+C_09,cuerpo,"Cuerpo persona - caso C_09",AIM-P252-057,3,AIM-P044-048,"Jersey Flamengo 2026 Rojo_Negro",0.6279,Acierto
+C_09,cuerpo,"Cuerpo persona - caso C_09",AIM-P252-057,4,AIM-P151-014,"SAO PAULO HOME KIT 2022-23 FREE DOWNLOAD",0.5017,No sirve
+C_09,cuerpo,"Cuerpo persona - caso C_09",AIM-P252-057,5,AIM-P155-051,"Alemania Concept 2021-22 vector",0.4955,No sirve
+C_10,cuerpo,"Cuerpo persona - caso C_10",AIM-P247-013,1,AIM-P132-034,"Alemania Femenino 2019-2020 Vector Free Download",0.7263,Sirve
+C_10,cuerpo,"Cuerpo persona - caso C_10",AIM-P247-013,2,AIM-P117-010,"Jersey Red Bullds",0.7260,Acierto
+C_10,cuerpo,"Cuerpo persona - caso C_10",AIM-P247-013,3,AIM-P244-060,"RED BULL CONCEPT NIKE",0.7156,Acierto
+C_10,cuerpo,"Cuerpo persona - caso C_10",AIM-P247-013,4,AIM-P217-054,"Alemania 2024 Home",0.6922,Sirve
+C_10,cuerpo,"Cuerpo persona - caso C_10",AIM-P247-013,5,AIM-P201-049,"RED BULL NEW YORK THIRD 23-24",0.5631,Acierto

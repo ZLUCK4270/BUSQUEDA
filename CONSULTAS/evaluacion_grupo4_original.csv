@@ -1,0 +1,46 @@
+caso,tipo,descripcion,id_correcto,posicion,id_resultado,nombre,score,juicio
+C_01,foto_real,"Barcelona",ID_BARCELONA,1,AIM-P051-041,"Barcelona Fc & Real Madrid Design",0.7031,Sirve
+C_01,foto_real,"Barcelona",ID_BARCELONA,2,AIM-P235-058,"Barcelona FC Home Kit 24-25",0.6899,Acierto
+C_01,foto_real,"Barcelona",ID_BARCELONA,3,AIM-P235-052,"Barcelona FC Home Kit 24-25",0.6899,Acierto
+C_01,foto_real,"Barcelona",ID_BARCELONA,4,AIM-P001-034,"Jersey Argentina - España",0.6709,Sirve
+C_01,foto_real,"Barcelona",ID_BARCELONA,5,AIM-P181-006,"Barcelona Visitante Retro 1991-92",0.6649,Sirve
+C_02,foto_real,"Real Madrid",ID_REAL_MADRID,1,AIM-P201-021,"REAL MADRID ENTRENAMIENTO 22-23",0.7641,Sirve
+C_02,foto_real,"Real Madrid",ID_REAL_MADRID,2,AIM-P010-003,"Jersey  Juvenil Adidas del Real Madrid 26-27",0.6459,Sirve
+C_02,foto_real,"Real Madrid",ID_REAL_MADRID,3,AIM-P163-031,"Real Madrid Home Jersey 2022-23",0.5911,Acierto
+C_02,foto_real,"Real Madrid",ID_REAL_MADRID,4,AIM-P162-024,"Real Madrid Home Jersey 2022-23",0.5911,Acierto
+C_03,foto_real,"Universitario",ID_UNIVERSITARIO,1,AIM-P170-013,"CLUB INDEPENDIENTE CONCEPT",0.7552,No sirve
+C_03,foto_real,"Universitario",ID_UNIVERSITARIO,2,AIM-P067-001,"Antalyaspor 2024-2025 Local",0.7407,No sirve
+C_03,foto_real,"Universitario",ID_UNIVERSITARIO,3,AIM-P184-022,"ESCOCIA 22-23 ADIDAS",0.5195,No sirve
+C_03,foto_real,"Universitario",ID_UNIVERSITARIO,4,AIM-P006-051,"Pattern Sports Line Blue",0.5094,No sirve
+C_04,foto_real,"Alianza Lima",ID_ALIANZA_LIMA,1,AIM-P067-001,"Antalyaspor 2024-2025 Local",0.7489,No sirve
+C_04,foto_real,"Alianza Lima",ID_ALIANZA_LIMA,2,AIM-P079-005,"Junior Barranquilla 2023-2024 Away",0.6992,No sirve
+C_04,foto_real,"Alianza Lima",ID_ALIANZA_LIMA,3,AIM-P224-036,"Atletico Mineiro 2024-25 Away",0.6937,No sirve
+C_04,foto_real,"Alianza Lima",ID_ALIANZA_LIMA,4,AIM-P027-009,"Junior De Barranquilla",0.6414,No sirve
+C_04,foto_real,"Alianza Lima",ID_ALIANZA_LIMA,5,AIM-P029-041,"Chelsea Blue 2026",0.6227,No sirve
+C_05,foto_real,"Sporting Cristal",ID_SPORTING_CRISTAL,1,AIM-P081-055,"Sao Paulo Homenaje Jersey",0.7721,No sirve
+C_05,foto_real,"Sporting Cristal",ID_SPORTING_CRISTAL,2,AIM-P135-041,"Guatemala 2021-22 vector Camiseta de Fútbol",0.6758,Sirve
+C_05,foto_real,"Sporting Cristal",ID_SPORTING_CRISTAL,3,AIM-P006-022,"Jersey Sport Blue & Red",0.6592,No sirve
+C_06,foto_real,"Peru",ID_PERU,1,AIM-P067-001,"Antalyaspor 2024-2025 Local",0.7786,No sirve
+C_06,foto_real,"Peru",ID_PERU,2,AIM-P052-031,"Colo Colo Entrenamiento",0.6990,No sirve
+C_06,foto_real,"Peru",ID_PERU,3,AIM-P197-020,"HOLANDA GEOMETRIC NIKE",0.6521,No sirve
+C_06,foto_real,"Peru",ID_PERU,4,AIM-P179-027,"CHILE DESIGN VISITA 22-23",0.5926,No sirve
+C_06,foto_real,"Peru",ID_PERU,5,AIM-P174-042,"COLOMBIA VISITANTE 2022",0.5609,No sirve
+C_07,foto_real,"Brazil",ID_BRAZIL,1,AIM-P086-053,"Jersey Argentina Concept",0.8154,Acierto
+C_07,foto_real,"Brazil",ID_BRAZIL,2,AIM-P121-019,"Argentina Campeones Concept",0.8098,Acierto
+C_07,foto_real,"Brazil",ID_BRAZIL,3,AIM-P042-050,"Argentina Concept",0.7108,Acierto
+C_07,foto_real,"Brazil",ID_BRAZIL,4,AIM-P224-031,"Argentina 2024-25 Campeones",0.6455,Acierto
+C_07,foto_real,"Brazil",ID_BRAZIL,5,AIM-P092-016,"Argentina Concept Design",0.6217,Acierto
+C_08,foto_real,"Argentina",ID_ARGENTINA,1,AIM-P135-021,"Manchester City 2021-22 Home Vector",0.7776,Sirve
+C_08,foto_real,"Argentina",ID_ARGENTINA,2,AIM-P161-045,"MANCHESTER CITY CONCEPT PUMA",0.6201,Sirve
+C_08,foto_real,"Argentina",ID_ARGENTINA,3,AIM-P140-044,"Manchester City Puma 2020-21 FREE DOWNLOAD",0.5689,Acierto
+C_08,foto_real,"Argentina",ID_ARGENTINA,4,AIM-P070-031,"New York City Wave Blue",0.5298,Acierto
+C_09,foto_real,"Manchester City",ID_MANCHESTER_CITY,1,AIM-P247-012,"ACMILAN ADIDAS CONCEPT",0.7215,Acierto
+C_09,foto_real,"Manchester City",ID_MANCHESTER_CITY,2,AIM-P208-035,"Juventus FC 2024-25 Home",0.6924,Sirve
+C_09,foto_real,"Manchester City",ID_MANCHESTER_CITY,3,AIM-P247-034,"AC MILAN PUMA LEON",0.6242,Sirve
+C_09,foto_real,"Manchester City",ID_MANCHESTER_CITY,4,AIM-P182-053,"AC MILAN ADIDAS 2006 -07",0.6162,Sirve
+C_09,foto_real,"Manchester City",ID_MANCHESTER_CITY,5,AIM-P130-017,"AC Milan Versace Concept",0.4780,Sirve
+C_10,foto_real,"AC Milan",ID_AC_MILAN,1,AIM-P247-012,"ACMILAN ADIDAS CONCEPT",0.7215,Acierto
+C_10,foto_real,"AC Milan",ID_AC_MILAN,2,AIM-P208-035,"Juventus FC 2024-25 Home",0.6924,Sirve
+C_10,foto_real,"AC Milan",ID_AC_MILAN,3,AIM-P247-034,"AC MILAN PUMA LEON",0.6242,Sirve
+C_10,foto_real,"AC Milan",ID_AC_MILAN,4,AIM-P182-053,"AC MILAN ADIDAS 2006 -07",0.6162,Acierto
+C_10,foto_real,"AC Milan",ID_AC_MILAN,5,AIM-P130-017,"AC Milan Versace Concept",0.4780,Acierto
